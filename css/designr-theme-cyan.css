@@ -339,6 +339,14 @@ header.jumbotron{
     padding:20px 0;
 }
 
+.message-box-white {
+    width:50%;
+    background:#fff;
+    background:rgba(255,255,255,0.9);
+    padding:20px 0;
+    padding-top: 50px;
+}
+
 .jumbotron .left-col{
 	width:35%;
     text-align:right;
